@@ -1,8 +1,7 @@
 # app-dev
 My first repository.
-# My Favorites
+# My Favorite
 
-Hi! This is a little page about my favorite series and my favorite movie.
 
 ---
 
