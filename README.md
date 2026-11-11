@@ -34,3 +34,34 @@ My first repository.
 | Genre | Adventure, Supernatural, Action |
 | Protagonist | Varies per part (Jotaro Kujo in Part 3) |
 | Goal | Defeat DIO (Part 3) |
+---
+
+## Favorite Group: BTS
+
+"Borahae!" (I purple you) — a phrase created by V, used by fans to say "I love you"
+
+### About
+*BTS* (Bangtan Sonyeondan) is a South Korean boy band formed in Seoul. They debuted on June 13, 2013 under *Big Hit Entertainment* (now part of *HYBE*). The group has seven members who write and produce much of their own music, and they grew from a small company's rookies into one of the biggest music acts in the world. Their dedicated fanbase is called *ARMY*.
+
+### Members
+1. RM – Leader, Rapper
+2. Jin – Vocalist
+3. Suga – Rapper
+4. J-Hope – Rapper, Dancer
+5. Jimin – Vocalist, Dancer
+6. V – Vocalist
+7. Jungkook – Main Vocalist
+
+### Why I Love Them
+- Powerful performances and sharp choreography
+- Meaningful themes of *self-love*, *youth*, and *perseverance*
+- A mix of genres, from hip-hop to pop
+- Strong bond with their fans, the *ARMY*
+
+### Quick Facts
+| Detail | Info |
+| --- | --- |
+| Origin | Seoul, South Korea |
+| Debut | June 13, 2013 |
+| Genre | K-pop, Hip-hop, Pop |
+| Members | 7 |
